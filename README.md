@@ -4,7 +4,7 @@
   </a>
 </p>
 <h1 align="center">
-  Theme Selector
+  Theme Switcher
 </h1>
 
 ## 🚀 Quick start
